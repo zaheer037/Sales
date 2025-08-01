@@ -48,7 +48,7 @@ Analyze how TV, Radio, and Newspaper advertising affect sales using regression m
 ## 🛠️ How to Run
 
 1. Clone this repository.
-2. Open `Sales_Advertising_.ipynb` in Jupyter Notebook or Google Colab.
+2. Open `Sales_Advertising.ipynb` in Jupyter Notebook or Google Colab.
 3. Upload `advertising.csv` when prompted.
 4. Run all cells to reproduce analysis and results.
 
